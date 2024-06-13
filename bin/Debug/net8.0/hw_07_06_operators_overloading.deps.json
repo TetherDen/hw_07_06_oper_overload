@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "hw_07_06_operators_overloading/1.0.0": {
+        "runtime": {
+          "hw_07_06_operators_overloading.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "hw_07_06_operators_overloading/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
